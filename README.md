@@ -14,4 +14,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirag-varu&show_icons=true&locale=en" alt="chirag-varu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chirag-varu&" alt="chirag-varu" /></p>
+## 📫 Connect with Me 
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-varu-63449a273/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/varu_chirag/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Chirag-varu)
