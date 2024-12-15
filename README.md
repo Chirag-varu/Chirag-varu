@@ -14,11 +14,17 @@
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+- ### Database
+  [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)]()
+  [![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)]()
+
+- ### Version Control
+  [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)]()
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)]()
 
 ### Other Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-fff?style=flat&logo=trello&logoColor=blue)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 <h3 align="left">Languages and Tools:</h3>
