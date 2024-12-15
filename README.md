@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Chirag Varu</h1>
 <h3 align="center">Undergrad Student</h3>
+
 ### About me
 
 Welcome to my GitHub profile! I'm a MERN (MongoDB, Express.js, React.js, Node.js) stack developer passionate about crafting seamless, end-to-end solutions. My dynamic skill set forms the cornerstone of every project, enabling me to thrive under pressure and embrace challenges with a proactive mindset.
@@ -46,8 +47,16 @@ Here are some technologies I frequently work with:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirag-varu&show_icons=true&locale=en" alt="chirag-varu" /></p>
 
+## 🚀 Aspirations
+Committed to continuous learning, I am always striving to broaden my skill set and contribute to innovative projects. Open to collaborative opportunities, I am keen on exploring new horizons in the tech landscape.
+
 ## 📫 Connect with Me 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-varu-63449a273/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/varu_chirag/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Chirag-varu)
+
+Feel free to connect with me! I'm always open to new opportunities and collaborations.
+
+## ⚡ Fun fact
+I love problem-solving and enjoy taking on leadership roles within teams.
