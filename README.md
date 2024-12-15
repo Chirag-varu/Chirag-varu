@@ -1,7 +1,15 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0C7xpsvzROefl3oDBI8dTCg8uAembKOZ4mHrfoxd4ODs-DabqTYa4Yt0pS0aY71W8cGb5aQbdm81oyiKbduLgiisqyeVR0UNHH1Eq6Jh7CVUELH_4rxsGm4lmCKlYs2X52qmbtzdXWd0/s1600/2000_600px.gif)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHGi3kU0hEstw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731318525595?e=1740009600&v=beta&t=Tie0DD4HWxw-7ngPaeSoKKpT6PSqJ0a7Ytf9Ack9ocQ)
 
 <h1 align="center">Hi 👋, I'm Chirag Varu</h1>
 <h3 align="center">Undergrad Student</h3>
+### About me
+
+Welcome to my GitHub profile! I'm a MERN (MongoDB, Express.js, React.js, Node.js) stack developer passionate about crafting seamless, end-to-end solutions. My dynamic skill set forms the cornerstone of every project, enabling me to thrive under pressure and embrace challenges with a proactive mindset.
+
+## Tech Stack
+
+Here are some technologies I frequently work with:
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif">
 
 ### Frontend
