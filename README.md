@@ -63,9 +63,12 @@ An app to search for movies, web series, and TV shows, providing key details suc
 
 ## 📈 GitHub Statistics
 <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Chirag-varu&theme=github_dark&show_icons=true&locale=en" alt="Chirag-varu" />
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag-varu&theme=github-dark-blue" alt="Chirag-varu" />
-</p> <br> <br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chirag-varu&theme=github_dark&show_icons=true&locale=en" alt="Chirag-varu" />
+</p>
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag-varu&theme=github-dark-blue" alt="Chirag-varu" />
+</p>
+<br><br>
 
 ## 🚀 Aspirations
 I am committed to continuous learning and personal growth, always seeking opportunities to expand my skill set and contribute to innovative projects. Open to collaboration, I am eager to explore new technologies and make an impact in the tech landscape.
