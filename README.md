@@ -47,8 +47,11 @@ ShopSphere, a feature-rich e-commerce platform designed to offer a seamless shop
 ### **MOVIE FINDER**  
 This project lets users search for any movie, web series, or TV show and provides key details like rating, duration, genre, cast, storyline, release year, and more.. 🎥🍿  
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirag-varu&show_icons=true&locale=en" alt="chirag-varu" /></p>
+## 📈 GitHub Statistics
+<p align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Chirag-varu&theme=github_dark&show_icons=true&locale=en" alt="Chirag-varu" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag-varu&theme=github-dark-blue" alt="Chirag-varu" />
+</p>
 
 ## 🚀 Aspirations
 Committed to continuous learning, I am always striving to broaden my skill set and contribute to innovative projects. Open to collaborative opportunities, I am keen on exploring new horizons in the tech landscape.
