@@ -52,7 +52,13 @@ Here are the technologies I frequently work with:
 
 ## 🚀 My Projects  
 
-### **UI-Topia: Component Library** (Ongoing)  
+### **chatEZ** (Ongoing)
+full-stack real-time chat application designed to provide seamless and efficient communication. It features a responsive and modern user interface, and advanced functionality to enhance the user experience
+
+### **College Administration And Management: E-Governance Solution**
+CAAM (College Asministration And Management) is an innovative and comprehensive platform designed to streamline and digitize the administrative, academic, and operational processes of educational institutions. It enables colleges to achieve seamless governance by integrating modern technology into day-to-day operations, ensuring transparency.
+
+### **UI-Topia: Component Library**  
 A React & TypeScript component library that provides reusable, flexible, and customizable components to effortlessly build stunning UIs with smooth animations and clean code. 🚀✨  
 
 ### **ShopSphere**  
