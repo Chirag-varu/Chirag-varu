@@ -1,6 +1,6 @@
 ---
 
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHGi3kU0hEstw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731318525595?e=1740009600&v=beta&t=Tie0DD4HWxw-7ngPaeSoKKpT6PSqJ0a7Ytf9Ack9ocQ)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHGi3kU0hEstw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731318525595?e=1746057600&v=beta&t=Iosdqjss28QGXTCid_e7g-11lWw-NcwTEY53-8jv6uI)
 
 <h1 align="center">Hi 👋, I'm Chirag Varu</h1>
 
