@@ -6,7 +6,7 @@
 
 ### About Me
 
-Welcome to my GitHub profile! I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer with a strong focus on creating efficient, scalable, and user-friendly web applications. I thrive in fast-paced environments and enjoy turning complex challenges into simple, effective solutions.
+Welcome to my GitHub profile! I am currently pursuing a BSc in IT, with experience in web development across WEB3 and cloud technologies. I enjoy exploring and experimenting with different technologies, constantly learning and growing in the process. My passion lies in building solutions that can create a meaningful impact on people's lives. Currently, I am delving into WEB3 and DevOps, expanding my knowledge in blockchain, automation, infrastructure, modern frameworks and cloud deployments.
 
 ## Tech Stack
 
@@ -47,12 +47,14 @@ Here are the technologies I frequently work with:
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
 ## 🚀 My Projects 
 
-### **chatEZ** (Ongoing)
+### **web3-solana-wallet**
+A decentralized wallet built on Solana blockchain for secure and seamless crypto transactions and token management. interacts with the Solana blockchain, enabling users to connect their Solana wallets on the Solana Devnet. 🔐
+
+### **chatEZ**
 full-stack real-time chat application designed to provide seamless and efficient communication. It features a responsive and modern user interface, and advanced functionality to enhance the user experience. 💬⚡
 
 ### **FileHub**
@@ -67,9 +69,6 @@ A React & TypeScript component library that provides reusable, flexible, and cus
 ### **ShopSphere**  
 ShopSphere is a feature-rich e-commerce platform designed for a seamless shopping experience with a clean, modern user interface that emphasizes usability and responsiveness. 💼📊  
 
-### **Movie Finder**  
-An app to search for movies, web series, and TV shows, providing key details such as ratings, cast, genre, duration, and more! 🎥🍿  
-
 ## 📈 GitHub Statistics
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chirag-varu&theme=github_dark&show_icons=true&locale=en" alt="Chirag-varu" />
@@ -83,10 +82,17 @@ An app to search for movies, web series, and TV shows, providing key details suc
 I am committed to continuous learning and personal growth, always seeking opportunities to expand my skill set and contribute to innovative projects. Open to collaboration, I am eager to explore new technologies and make an impact in the tech landscape.
 
 ## 📫 Connect with Me 
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-varu-63449a273/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/varu_chirag/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Chirag-varu)
+<div>  
+  <a href="https://github.com/Chirag-varu" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://leetcode.com/u/varu_chirag/" target="_blank">
+    <img src=https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/chirag-varu-63449a273/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a> 
+</div>  
 
 Feel free to connect! I'm always open to new opportunities and collaborations.
 
