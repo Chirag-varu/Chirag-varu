@@ -1,6 +1,6 @@
 ---
 
-![MasterHead](https://www.canva.com/design/DAGWKUhV7Ac/dT4Oe_vikPQh76xBaqZ7NQ/view?utm_content=DAGWKUhV7Ac&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9b879e0df4)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGMn1NuLrq5Nw/profile-displaybackgroundimage-shrink_350_1400/B4DZYtjithHsAY-/0/1744521015186?e=1750291200&v=beta&t=zWA74G-6NLNReManCD_AEVSgPFk7JPzdVkpkQaqn1Xs)
 
 <h1 align="center">Hi 👋, I'm Chirag Varu</h1>
 
