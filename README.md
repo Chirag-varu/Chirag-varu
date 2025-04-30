@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am currently pursuing a BSc in IT, with experien
 
 Here are the technologies I frequently work with:
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
