@@ -1,6 +1,6 @@
 ---
 
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGMn1NuLrq5Nw/profile-displaybackgroundimage-shrink_350_1400/B4DZYtjithHsAY-/0/1744521015186?e=1755734400&v=beta&t=0wMiY5q7msigMhHm2kZVoMnlFv4WVpyErqWhbFFHhm8)
+![MasterHead](1744521015186.jpg)
 
 <h1 align="center">Hi 👋, I'm Chirag Varu</h1>
 
