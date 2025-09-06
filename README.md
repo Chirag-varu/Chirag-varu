@@ -46,7 +46,14 @@ Here are the technologies I frequently work with:
   </a>
 </p>
 
+---
 ## 🚀 My Projects 
+
+## **[EduCore](https://github.com/Chirag-varu/EduCore)**
+EduCore is a web-based Learning Management System (LMS) designed to simplify online education for students and instructors. The platform provides essential features like course management, user authentication, and a responsive user experience tailored for both desktop and mobile environments. 🏫
+
+### **[healthmate](https://github.com/Chirag-varu/healthmate)**
+HealthMate is a full-stack web application that empowers users to enter symptoms and receive AI-generated medical insights. It combines secure authentication, diagnosis history tracking, and one-click sharing, wrapped in a clean emerald-themed UI aligned with healthcare branding. 💬🧑‍⚕️
 
 ### **[web3-solana-wallet](https://github.com/Chirag-varu/web3-solana-wallet)**
 A decentralized wallet built on Solana blockchain for secure and seamless crypto transactions and token management. interacts with the Solana blockchain, enabling users to connect their Solana wallets on the Solana Devnet. 🔐
@@ -57,12 +64,31 @@ full-stack real-time chat application designed to provide seamless and efficient
 ### **[FileHub](https://github.com/Chirag-varu/filehub)**
 FileHub is a web application that allows users to securely store, manage, and share their files and documents. With an intuitive interface and robust security features, FileHub makes file storage and collaboration seamless. 📁🔒
 
-### **[College Administration And Management: E-Governance Solution](https://github.com/Chirag-varu/CAAM)**
-CAAM (College Asministration And Management) is an innovative and comprehensive platform designed to streamline and digitize the administrative, academic, and operational processes of educational institutions. It enables colleges to achieve seamless governance by integrating modern technology into day-to-day operations, ensuring transparency. 🏫📊
+---
+## 🌍 Open Source Contributions
 
-### **[UI-Topia: Component Library](https://github.com/Chirag-varu/UItopia)**
-A React & TypeScript component library that provides reusable, flexible, and customizable components to effortlessly build stunning UIs with smooth animations and clean code. 🚀✨  
+I actively contribute to open-source projects, focusing on bug fixes, documentation improvements, and feature enhancements. Some of my notable contributions include:
 
+- **[code100x/1ai](https://github.com/code100x/1ai)**
+  - Added Dockerfile with multi-stage build and health-check for backend.  
+  - Implemented share chat functionality and OTP timer (to track OTP expiry & resend).  
+  - Improved environment handling (baseURL for dev and prod).  
+  - Fixed multiple UI/UX issues (search icon, chat button, back button in pricing page with functionality).  
+
+- **[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)**  
+  - Resolved Docker Compose port conflict issues.  
+  - Enhanced project README for better onboarding (for developers and contributors).  
+
+- **[kubernetes/dashboard](https://github.com/kubernetes/dashboard)**  
+  - Improved readability of `creating-sample-user.md` (clarified purpose and steps for creating a ServiceAccount and ClusterRoleBinding).  
+  - Fixed issue with “Getting a long-lived Bearer Token for ServiceAccount.”  
+
+- **[Tirth2005-git/real-estate-](https://github.com/Tirth2005-git/real-estate-)**  
+  - Fixed deployment issue (successfully deployed on Render).  
+
+💡 Always looking forward to contributing more and collaborating with open-source communities!
+
+---
 ## 📈 GitHub Statistics
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chirag-varu&theme=github_dark&show_icons=true&locale=en" alt="Chirag-varu" />
@@ -90,10 +116,8 @@ I am committed to continuous learning and personal growth, always seeking opport
 
 Feel free to connect! I'm always open to new opportunities and collaborations.
 
-## ⚡ Fun Fact
-I love problem-solving and enjoy taking on leadership roles within teams. Let's build something amazing together!
 
---- 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
 
 <!---
 Chirag-varu/Chirag-varu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
