@@ -116,8 +116,9 @@ I am committed to continuous learning and personal growth, always seeking opport
 
 Feel free to connect! I'm always open to new opportunities and collaborations.
 
-
+<!---
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
+--->
 
 <!---
 Chirag-varu/Chirag-varu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
