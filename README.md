@@ -47,22 +47,25 @@ Here are the technologies I frequently work with:
 </p>
 
 ---
-## 🚀 My Projects 
+## 🚀 My Recent Projects 
+
+## **[smart-campus-system](https://github.com/Chirag-varu/smart-campus-system)**
+This project was selected in SIH Internal Hackthon: A comprehensive platform that streamlines college operations by integrating student & admin dashboards, resource booking, notices, and verification systems. the system enhances transparency, reduces manual effort, and ensures efficient utilization of college resources. 
 
 ## **[EduCore](https://github.com/Chirag-varu/EduCore)**
-EduCore is a web-based Learning Management System (LMS) designed to simplify online education for students and instructors. The platform provides essential features like course management, user authentication, and a responsive user experience tailored for both desktop and mobile environments. 🏫
+My final year project: EduCore is a web-based Learning Management System (LMS) designed to simplify online education for students and instructors. The platform provides essential features like course management, user authentication, and a responsive user experience tailored for both desktop and mobile environments. 
 
 ### **[healthmate](https://github.com/Chirag-varu/healthmate)**
-HealthMate is a full-stack web application that empowers users to enter symptoms and receive AI-generated medical insights. It combines secure authentication, diagnosis history tracking, and one-click sharing, wrapped in a clean emerald-themed UI aligned with healthcare branding. 💬🧑‍⚕️
+HealthMate is a full-stack web application that empowers users to enter symptoms and receive AI-generated medical insights. It combines secure authentication, diagnosis history tracking, and one-click sharing, wrapped in a clean emerald-themed UI aligned with healthcare branding. 
 
 ### **[web3-solana-wallet](https://github.com/Chirag-varu/web3-solana-wallet)**
-A decentralized wallet built on Solana blockchain for secure and seamless crypto transactions and token management. interacts with the Solana blockchain, enabling users to connect their Solana wallets on the Solana Devnet. 🔐
+A decentralized wallet built on Solana blockchain for secure and seamless crypto transactions and token management. interacts with the Solana blockchain, enabling users to connect their Solana wallets on the Solana Devnet. 
 
 ### **[chatEZ](https://github.com/Chirag-varu/chatEZ)**
-full-stack real-time chat application designed to provide seamless and efficient communication. It features a responsive and modern user interface, and advanced functionality to enhance the user experience. 💬⚡
+full-stack real-time chat application designed to provide seamless and efficient communication. It features a responsive and modern user interface, and advanced functionality to enhance the user experience. 
 
 ### **[FileHub](https://github.com/Chirag-varu/filehub)**
-FileHub is a web application that allows users to securely store, manage, and share their files and documents. With an intuitive interface and robust security features, FileHub makes file storage and collaboration seamless. 📁🔒
+FileHub is a web application that allows users to securely store, manage, and share their files and documents. With an intuitive interface and robust security features, FileHub makes file storage and collaboration seamless. 
 
 ---
 ## 🌍 Open Source Contributions
