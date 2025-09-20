@@ -1,50 +1,39 @@
----
-
+# Hey there! 👋 I'm Chirag Varu, a cloud native & fullStack developer
 ![MasterHead](1744521015186.jpg)
 
-<h1 align="center">Hi 👋, I'm Chirag Varu</h1>
-
+---
 ### About Me
 
 Welcome to my GitHub profile! I am currently pursuing a BSc in IT, with experience in web development across WEB3 and cloud technologies. I enjoy exploring and experimenting with different technologies, constantly learning and growing in the process. My passion lies in building solutions that can create a meaningful impact on people's lives. Currently, I am delving into WEB3 and DevOps, expanding my knowledge in blockchain, automation, infrastructure, modern frameworks and cloud deployments.
 
-## Tech Stack
-
-Here are the technologies I frequently work with:
+---
+<h3>⚡ Tech Arsenal</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### Frontend
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+<div align="left">
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-
-### Database
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)]()
-[![Postgresql](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)]()
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-
-### Project Management & Deployment
-[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)]()
-![Trello](https://img.shields.io/badge/-Trello-fff?style=flat&logo=trello&logoColor=blue)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white)  
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,codepen,figma,wordpress,postman,docker,kubernetes,powershell" />
-  </a>
+**Languages & Frameworks**  
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nestjs,nodejs,express,python,vite,tailwind,kafka&perline=8" />
 </p>
+
+**Databases & Storage**  
+<p> 
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,supabase,prisma,mysql&perline=7" /> 
+</p>
+
+**Cloud & DevOps**  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,cloudflare,docker,kubernetes,git,github,postman,figma&perline=8" />
+</p>
+
+**CLI & Tools**  
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,powershell,vscode&perline=8" />
+</p>
+
+</div>
 
 ---
 ## 🚀 My Recent Projects 
@@ -101,9 +90,11 @@ I actively contribute to open-source projects, focusing on bug fixes, documentat
 </p>
 <br><br>
 
+---
 ## 🚀 Aspirations
 I am committed to continuous learning and personal growth, always seeking opportunities to expand my skill set and contribute to innovative projects. Open to collaboration, I am eager to explore new technologies and make an impact in the tech landscape.
 
+---
 ## 📫 Connect with Me 
 <div>  
   <a href="https://github.com/Chirag-varu" target="_blank">
