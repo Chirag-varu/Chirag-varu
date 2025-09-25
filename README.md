@@ -1,5 +1,5 @@
-![MasterHead](1744521015186.jpg)
 # Hey there! 👋 I'm Chirag Varu, a cloud native & fullStack developer
+![MasterHead](1744521015186.jpg)
 
 ---
 ### About Me
