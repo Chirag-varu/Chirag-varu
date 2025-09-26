@@ -4,8 +4,16 @@
   <img src="https://komarev.com/ghpvc/?username=Chirag-varu&label=Profile%20views&color=0e75b6&style=flat" alt="Chirag-varu" />
 </p>
 
-# Hey there! 👋 I'm Chirag Varu, a cloud native & fullStack developer
 ![MasterHead](1744521015186.jpg)
+
+<h1 align="center" style="font-size: 3em;">
+  Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm 
+  <a href="https://chiragvaru.me/">Chirag Varu</a>
+</h1>
+<h3 align="center" style="font-size: 2em;">
+  Cloud Native & FullStack Developer from India
+</h3>
+
 
 ---
 ### About Me
