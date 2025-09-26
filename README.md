@@ -1,19 +1,16 @@
-<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chirag-varu&label=Profile%20views&color=0e75b6&style=flat" alt="Chirag-varu" /> </p> --->
-
+<!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Chirag-varu&label=Profile%20views&color=0e75b6&style=flat" alt="Chirag-varu" />
 </p>
 
-![MasterHead](1744521015186.jpg)
-
-<h1 align="center" style="font-size: 3em;">
+<h1 align="center">
   Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm 
   <a href="https://chiragvaru.me/">Chirag Varu</a>
+  <p style="font-size:1.2em;">Cloud Native & FullStack Developer from India</p>
 </h1>
-<h3 align="center" style="font-size: 2em;">
-  Cloud Native & FullStack Developer from India
-</h3>
 
+<!-- Master Head Image -->
+![MasterHead](1744521015186.jpg)
 
 ---
 ### About Me
@@ -112,17 +109,14 @@ I am committed to continuous learning and personal growth, always seeking opport
 ## 🌐 Connect with Me
 
 <div>
-  <a href="https://github.com/Chirag-varu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+  <a href="https://www.linkedin.com/in/chiragvaru03/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
   </a>
   <a href="https://leetcode.com/u/varu_chirag/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.linkedin.com/in/chiragvaru03/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
-  </a>
   <a href="mailto:chirag@chiragvaru.me" target="_blank">
-    <img src="https://img.shields.io/badge/Email-chirag@chiragvaru.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="chirag@chiragvaru.me" style="margin-bottom: 5px;" />
   </a>
   <a href="https://hashnode.com/@Chirag-varu" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-%2300C1D4.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" style="margin-bottom: 5px;" />
