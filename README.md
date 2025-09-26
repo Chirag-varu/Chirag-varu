@@ -3,14 +3,14 @@
   <img src="https://komarev.com/ghpvc/?username=Chirag-varu&label=Profile%20views&color=0e75b6&style=flat" alt="Chirag-varu" />
 </p>
 
+<!-- Master Head Image -->
+![MasterHead](1744521015186.jpg)
+
 <h1 align="center">
   Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm 
   <a href="https://chiragvaru.me/">Chirag Varu</a>
   <p style="font-size:1.2em;">Cloud Native & FullStack Developer from India</p>
 </h1>
-
-<!-- Master Head Image -->
-![MasterHead](1744521015186.jpg)
 
 ---
 ### About Me
