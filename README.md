@@ -1,3 +1,9 @@
+<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chirag-varu&label=Profile%20views&color=0e75b6&style=flat" alt="Chirag-varu" /> </p> --->
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Chirag-varu&label=Profile%20views&color=0e75b6&style=flat" alt="Chirag-varu" />
+</p>
+
 # Hey there! 👋 I'm Chirag Varu, a cloud native & fullStack developer
 ![MasterHead](1744521015186.jpg)
 
@@ -95,18 +101,25 @@ I actively contribute to open-source projects, focusing on bug fixes, documentat
 I am committed to continuous learning and personal growth, always seeking opportunities to expand my skill set and contribute to innovative projects. Open to collaboration, I am eager to explore new technologies and make an impact in the tech landscape.
 
 ---
-## 📫 Connect with Me 
-<div>  
+## 🌐 Connect with Me
+
+<div>
   <a href="https://github.com/Chirag-varu" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
   </a>
   <a href="https://leetcode.com/u/varu_chirag/" target="_blank">
-    <img src=https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.linkedin.com/in/chirag-varu-63449a273/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a> 
-</div>  
+  <a href="https://www.linkedin.com/in/chiragvaru03/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+  </a>
+  <a href="mailto:chirag@chiragvaru.me" target="_blank">
+    <img src="https://img.shields.io/badge/Email-chirag@chiragvaru.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://hashnode.com/@Chirag-varu" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-%2300C1D4.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" style="margin-bottom: 5px;" />
+  </a>
+</div>
 
 Feel free to connect! I'm always open to new opportunities and collaborations.
 
