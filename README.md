@@ -49,6 +49,9 @@ Welcome to my GitHub profile! I am currently pursuing a BSc in IT, with experien
 ---
 ## 🚀 My Recent Projects 
 
+## **[DivyaYatri](https://github.com/Chirag-varu/DivyaYatri)**
+A comprehensive temple guide application built with MERN stack, TypeScript, and shadcn/ui, developed as part of Smart India Hackathon 2025.
+
 ## **[smart-campus-system](https://github.com/Chirag-varu/smart-campus-system)**
 This project was selected in SIH Internal Hackthon: A comprehensive platform that streamlines college operations by integrating student & admin dashboards, resource booking, notices, and verification systems. the system enhances transparency, reduces manual effort, and ensures efficient utilization of college resources. 
 
@@ -60,12 +63,6 @@ HealthMate is a full-stack web application that empowers users to enter symptoms
 
 ### **[web3-solana-wallet](https://github.com/Chirag-varu/web3-solana-wallet)**
 A decentralized wallet built on Solana blockchain for secure and seamless crypto transactions and token management. interacts with the Solana blockchain, enabling users to connect their Solana wallets on the Solana Devnet. 
-
-### **[chatEZ](https://github.com/Chirag-varu/chatEZ)**
-full-stack real-time chat application designed to provide seamless and efficient communication. It features a responsive and modern user interface, and advanced functionality to enhance the user experience. 
-
-### **[FileHub](https://github.com/Chirag-varu/filehub)**
-FileHub is a web application that allows users to securely store, manage, and share their files and documents. With an intuitive interface and robust security features, FileHub makes file storage and collaboration seamless. 
 
 ---
 ## 🌍 Open Source Contributions
